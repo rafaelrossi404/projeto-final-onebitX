@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: $font-color;
+  box-sizing: border-box;
+}
+
+.container00{
+  color: $font-color;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+// Primeira divisão do Site
+
+.container6{
+  background-image: url(../../images/falcon9/01.jpg);
+}
+
+.topLogo{
+  width: 16rem;
+}
+
+.titlePadding2{
+  font-family: sans-serif;
+  margin-top: 14rem;
+}
+
+// Segunda Divisão do Site
+
+.container7{
+  background-image: url(../../images/falcon9/02.jpg);
+}
+
+.paragraph{
+  font-size: 20px;
+}
+
+#mainText{
+  line-height: 3rem;
+  width: 40rem;
+  margin-top: 7rem;
+  margin-right: 50rem;
+}
+
+// Terceira Divisão do Site
+
+.container00 .carousel100{
+  background-image: url(../../images/falcon9/03.jpg);
+  padding-left: 13rem;
+  padding-top: 15rem;
+}
+
+.table001{
+  width: 30rem;
+}
+
+.container00 .carousel101{
+  background-image: url(../../images/falcon9/04.jpg);
+  padding-left: 13rem;
+  padding-top: 15rem;
+}
+
+.container00 .carousel102{
+  background-image: url(../../images/falcon9/05.jpg);
+  padding-left: 13rem;
+  padding-top: 15rem;
+}
+
+.container00 .carousel103{
+  background-image: url(../../images/falcon9/06.jpg);
+  padding-left: 13rem;
+  padding-top: 15rem;
+}
+
+.container00 .carousel104{
+  background-image: url(../../images/falcon9/07.jpg);
+  padding-left: 13rem;
+  padding-top: 15rem;
+}
